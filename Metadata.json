@@ -2912,54 +2912,6 @@
             "state" : "Virginia"
           },
           {
-            "abbreviation" : "HAMP",
-            "prestige" : "25",
-            "hexColor" : "#003591",
-            "rival" : "RHO",
-            "headCoach" : {
-              "contractLength" : "2",
-              "startYear" : "2020",
-              "age" : "63",
-              "ratOff" : "41",
-              "cumulativePrestige" : "0",
-              "ratDef" : "47",
-              "homeState" : "New York",
-              "ratPot" : "76",
-              "ratTalent" : "48",
-              "baselinePrestige" : "20",
-              "ratDiscipline" : "89",
-              "ratOvr" : "66",
-              "name" : "Sean McDonnell",
-              "contractYear" : "0"
-            },
-            "name" : "New Hampshire",
-            "state" : "New Hampshire"
-          },
-          {
-            "abbreviation" : "VILA",
-            "prestige" : "25",
-            "hexColor" : "#002664",
-            "rival" : "ELO",
-            "headCoach" : {
-              "contractLength" : "4",
-              "startYear" : "2020",
-              "age" : "58",
-              "ratOff" : "40",
-              "cumulativePrestige" : "0",
-              "ratDef" : "48",
-              "homeState" : "Pennsylvania",
-              "ratPot" : "73",
-              "ratTalent" : "49",
-              "baselinePrestige" : "20",
-              "ratDiscipline" : "86",
-              "ratOvr" : "65",
-              "name" : "Mark Ferrante",
-              "contractYear" : "0"
-            },
-            "name" : "Villanova",
-            "state" : "Pennsylvania"
-          }
-          {
             "abbreviation" : "HU",
             "prestige" : "1",
             "hexColor" : "#A51C30",
@@ -2982,7 +2934,7 @@
             },
             "name" : "Harvard",
             "state" : "Massachusetts"
-          }
+          },
           {
             "abbreviation" : "MIT",
             "prestige" : "1",
